@@ -1,0 +1,16 @@
+Next steps for TV Commercials during COVID Data - 7/14/21
+
+Do this for both pre and post-covid datasets:
+
+1.) Print number of unique ‘ADVERTISER’ 
+
+2.) Generate a frequency table for each of these unique advertisers (i.e., we want to know which advertiser has the most and how many they have, then which has the 2nd most ads and how many they have, etc).
+
+3.) We want to keep all ads from the top 10 in the frequency list and drop all others.
+
+4.) Drop columns so that the final variable list is:
+ADVERTISER, PRODUCT, LINK, LENGTH/SIZE, UNITS
+
+5.) export csv
+
+Final product should be 2 CSV's with 5 columns and N rows representing advertisements from the top-10 advertisers during each period.
